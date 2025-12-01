@@ -14,7 +14,7 @@ This app is not affiliated with Ubisoft Entertainment. Everyday our API/Bot refr
 > List for commands.
 
 ```
-/get <items.dat or items.html>
+/get <items.dat or items.json>
 ``` 
 > Gives you a items.dat or items.html file.
 
@@ -22,7 +22,7 @@ This app is not affiliated with Ubisoft Entertainment. Everyday our API/Bot refr
 /api <your api license key>
 ```
 ```
-/edit <line: item.dat line> or <id: item id>
+/edit <line: item.dat line> or <id: item id> <encode: true/false> <decode: true/false>
 ```
 > You can edit items.dat
 
