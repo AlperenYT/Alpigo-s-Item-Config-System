@@ -36,15 +36,18 @@ This app is not affiliated with Ubisoft Entertainment. Everyday our API/Bot refr
 
 > If you want you can purchase full pack (GTPS CPP, items.dat, Special login page for yout GTPS)
 
-## How it works?
+## ❔ How it works?
 Our system works with our Firebase database. When you request an items.dat our app gets items and makes it `items.dat` or `items.json` for you.
 
 > [!IMPORTANT]
 > Sometimes you can be limited or get banned from our system from built-in anti-bot detection system. When this happens and if you think there is something wrong you can always contact us via Discord (don't forget to copy your sessionId) we are always here for you.
 
 
-### Limited Support Thing
+### 🔐 Limited Support Thing
 When you open our Python app, website, Windows app or just get an warning from our Discord bot about **"Limited Support"** this means one day your app no longer be available for support. But there is no problem, your license or purchase always be saved. Limited support means our app will receive or already received a new version and your outdateed version is no longer or will no longer be supported. This is for your **security** and our **server-side** security.
+
+# 📜 Patch Notes
+You can find patch notes from clicking [here](https://github.com/AlperenYT/Alpigo-s-Item-Config-System/blob/0099af4ae3cd6ccfa269bb3897104d97935314f5/patchNotes.md).
 
 
 
