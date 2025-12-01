@@ -12,7 +12,6 @@ This app is not affiliated with Ubisoft Entertainment. Everyday our API/Bot refr
 /help
 ```
 > List for commands.
-
 ```
 /get <items.dat or items.json>
 ``` 
@@ -21,13 +20,16 @@ This app is not affiliated with Ubisoft Entertainment. Everyday our API/Bot refr
 ```
 /api <your api license key>
 ```
+> Enter your license key for API key.
 ```
 /edit <line: item.dat line> or <id: item id> <encode: true/false> <decode: true/false>
 ```
 > You can edit items.dat
 
-> Enter your license key for API key.
 >
-## Non-Discord System
+## 🔗 Non-Discord System
 > You can use our application on Windows for this or you can visit our website for free.
 > (Free version limited with monthly 2 downloads)
+> If you want you can purchase full pack (GTPS CPP, items.dat, Special login page for yout GTPS)
+
+
